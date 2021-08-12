@@ -2,7 +2,7 @@
 I'm 27 years old and a passionate front-end developer.
 I'm graduated in Information Systems from UNIPAM - Centro Universitário de Patos de Minas :)
 
-![200](https://user-images.githubusercontent.com/17837853/129240436-7547fdc6-3cfd-49dd-812f-b4a105738406.gif style="text-align:center")
+![200](https://user-images.githubusercontent.com/17837853/129240436-7547fdc6-3cfd-49dd-812f-b4a105738406.gif)
 
 
 <!--
