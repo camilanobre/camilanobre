@@ -1,4 +1,6 @@
-### Hello, I'm Camila! 👋
+### Hello, I'm Camila!
+I'm 27 years old and a passionate front-end developer.
+I'm graduated in Information Systems from UNIPAM - Centro Universitário de Patos de Minas :)
 
 
 <!--
