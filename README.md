@@ -1,5 +1,5 @@
 ### Hi, I'm Camila⚡:unicorn:
-I'm 27 years old and a passionate front-end developer.
+I'm 27 years old and a passionate front-end developer (sometimes full-stack).
 I'm graduated in Information Systems from UNIPAM - Centro Universitário de Patos de Minas :)
 
 <p align="center"> 
